@@ -22,6 +22,10 @@ import News from './pages/News'
 import ContactUs from './pages/ContactUs'
 
 export class App extends Component {
+componentDidMount = () => {
+  document.title="OaklandELtd"
+}
+
   render() {
     return (
         <Router>
