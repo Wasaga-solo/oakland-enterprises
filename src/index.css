@@ -1,0 +1,19 @@
+.dropdowntext{
+    color: #e91e63 ;
+}
+.title-text{
+    text-decoration-color: #e91e63 ;
+}
+body{
+    font-family: 'Domine', serif;
+}
+.logo{
+    font-family: 'Monoton', serif;
+}
+.social{
+    min-width:50px ;
+}
+.newsimages{
+    max-width: 50px;
+    max-height: 50px;
+}
